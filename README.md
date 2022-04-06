@@ -18,5 +18,5 @@ Two types of risks are associated with the bank’s decision:
 The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
 # Details
-JeevithaR.ipynb - Contains python code that was used for analysis.
+JeevithaR.ipynb - Contains python code that was used for analysis. <br/>
 JeevithaR_Lending_Case_Study.pdf - Contains the presentaion of the workdone for analysis.
